@@ -8,3 +8,4 @@ xgboost==2.1.1
 gunicorn==23.0.0
 matplot==0.1.9
 seaborn==0.13.2
+gunicorn==23.0.0
