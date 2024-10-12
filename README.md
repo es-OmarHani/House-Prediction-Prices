@@ -10,10 +10,8 @@ This project aims to develop a machine learning model to predict housing prices 
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Evaluation Metrics](#evaluation-metrics)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
