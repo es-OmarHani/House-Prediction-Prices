@@ -19,7 +19,7 @@ This project aims to develop a machine learning model to predict housing prices 
 
 - Predict housing prices based on features such as size, location, number of bedrooms, etc.
 - Implemented using XGBoost for enhanced performance.
-- Includes a FastAPI web application for user-friendly predictions.
+- Includes a Flask web application for user-friendly predictions.
 - Data visualization and analysis using Jupyter notebooks.
 
 ## Technologies Used
